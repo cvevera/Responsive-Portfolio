@@ -216,9 +216,7 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 980px ) {
-  .sidebar {
-    width: 37%;
-  }
+
   .main-section {
     width: 60%;
   }
@@ -232,9 +230,6 @@ input[type=submit] {
 
 
 @media screen and (max-width: 768px) {
-  .sidebar {
-    width: 100%;
-  }
   .main-section {
     width: 100%;
   }
@@ -248,10 +243,6 @@ input[type=submit] {
 
 @media screen and (max-width: 640) {
   
-  .sidebar {
-    width: 70%;
-    float: none;
-  }
   .main-section {
     width: 100%;
   }
@@ -260,14 +251,4 @@ input[type=submit] {
   }
     #logo {
     width: 100%;
-}
-body {
-  width: 59%;
-}
-header {
-  width: 59%;
-}
-nav {
-  width: 100%;
-  float: none;
 }
